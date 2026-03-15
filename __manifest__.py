@@ -17,14 +17,14 @@
     'depends': ['point_of_sale'],
 
     'data': [
-        'views/pos_config_views.xml',
+        #'views/pos_config_views.xml',
 
     ],
 
     'assets':{
-        'point_of_sale.assets': [
-            'pos_default_partner/static/src/js/models.js',
-        ],
+        # 'point_of_sale.assets': [
+        #     'pos_default_partner/static/src/js/models.js',
+        # ],
         # 'web.assets_qweb':[
         #     'pos_ticket_mx/static/src/xml/**/*',
         # ],
